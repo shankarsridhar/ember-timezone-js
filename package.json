@@ -1,13 +1,15 @@
 {
   "name": "ember-timezone-js",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.1.0",
+  "description": "This is an ember-cli ES6 module shim for timezone-js within your Ember application.",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "ember-timezone-js",
+    "timezone-js"
   ],
   "repository": "",
   "license": "MIT",
-  "author": "",
+  "author": "Shankar Sridhar <shankar.utd@gmail.com>",
   "directories": {
     "doc": "doc",
     "test": "tests"

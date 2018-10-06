@@ -7,7 +7,7 @@
     "ember-timezone-js",
     "timezone-js"
   ],
-  "repository": "",
+  "repository": "shankarsridhar/ember-timezone-js",
   "license": "MIT",
   "author": "Shankar Sridhar <shankar.utd@gmail.com>",
   "directories": {
